@@ -3,4 +3,13 @@ remote_theme: just-the-docs/just-the-docs
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
+aux_links:
+  "My Youtube Channel":
+    - "//www.youtube.com/@TimesWatcher_Wood"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+
+
 
